@@ -1,0 +1,13 @@
+//注意 需要将<UIEventset></<UIEventset>中的<UIEventset>移动到最前面 才是合法的xml格式 才能解析
+//此转换软件没有自动转换为xml格式功能 需要手动编辑一下
+//目前只支持iapp iyu语言（裕语言） v3版本的源码中的控件gui转换 代码转换暂时不支持
+/*例子：
+<UIEventset>
+<View id="1" did="0" type="TextView">
+<ppt>width=-2
+height=-2
+text=文本1</ppt>
+<event></event>
+</View>
+</UIEventset>
+*/

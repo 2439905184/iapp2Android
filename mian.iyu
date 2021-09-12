@@ -1,0 +1,8 @@
+<UIEventset>
+<View id="1" did="0" type="TextView">
+<ppt>width=-2
+height=-2
+text=文本1</ppt>
+<event></event>
+</View>
+</UIEventset>
